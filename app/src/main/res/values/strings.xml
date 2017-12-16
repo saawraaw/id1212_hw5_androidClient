@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="no_internet">Sorry, you need internet access!</string>
+    <string name="no_connection">No Connection</string>
+    <string name="could_not_connect">Could Not Connect To Game Server</string>
+    <string name="send_user_guess">Guess</string>
+    <string name="attempts_label_string">Attempts Left:</string>
+    <string name="score_label_string">Total Score:</string>
+    <string name="play_again_string">Play Again</string>
+    <string name="quit_game_string">Quit Game</string>
+    <string name="current_word_string">current_word</string>
+    <string name="attempts_string">attempts</string>
+    <string name="score_string">score</string>
+    <string name="chosen_word_string">chosen word</string>
+    <string name="win_or_lose_string">win or lose</string>
+    <string name="hangman_string">Hangman!</string>
+    <string name="to_string">To</string>
+    <string name="start_string">Start</string>
+    <string name="welcome_string">Welcome</string>
+    <string name="previously_guessed_string">Previously Guessed:</string>
+</resources>
